@@ -20,10 +20,10 @@ Error Handling: Improve error handling if the user denies geolocation access or 
 Main Interface
 Displays the current weather, time, and date, along with a 7-day weather forecast.
 
-###License
+### License
 This project is licensed under the MIT License - feel free to modify and use it in your own projects.
 
-###Author
+### Author
 Developed by [Your Name]. Feel free to reach out with any questions or suggestions.
 
 ### Acknowledgments
