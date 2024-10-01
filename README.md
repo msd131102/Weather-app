@@ -12,28 +12,25 @@
 - Geolocation API: To detect the user's location.
 - Moment.js: For formatting date and time.
 
-  
 ### Possible Improvements
 City Search Feature: Allow users to search for weather data by entering a city name.
 Unit Conversion: Provide an option to toggle between Celsius and Fahrenheit.
 Error Handling: Improve error handling if the user denies geolocation access or if the API fails.
-
-
 ### Screenshots
 Main Interface
 Displays the current weather, time, and date, along with a 7-day weather forecast.
 
-### License
+###License
 This project is licensed under the MIT License - feel free to modify and use it in your own projects.
 
-### Author
-Developed by shiva. Feel free to reach out with any questions or suggestions.
+###Author
+Developed by [Your Name]. Feel free to reach out with any questions or suggestions.
 
 ### Acknowledgments
 Special thanks to OpenWeather for their API services.
 Moment.js for making date and time formatting easier.
 
-
+[![demo](https://github.com/msd131102/Weather-app/blob/main/Weather%20App%20-%20Google%20Chrome%2001-10-2024%2011_30_11.png?raw=true "demo")](http://https://github.com/msd131102/Weather-app/blob/main/Weather%20App%20-%20Google%20Chrome%2001-10-2024%2011_30_11.png?raw=true "demo")
 
 
 
